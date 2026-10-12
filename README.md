@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/AI-Business%20Intelligence-7C3AED?style=for-the-badge" alt="AI" />
 </p>
 
-## `$ whoami`
+## Who am I ?
 
 I'm a Software Developer with **4+ years of experience** developing business applications, customizing ERP systems, integrating external services, and automating business workflows.
 
@@ -135,12 +135,12 @@ My professional work includes manufacturing, retail, and logistics use cases, wi
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=3FA796&icon_color=3FA796" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=3FA796" height="165" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saranesh123&show_icons=true&hide_border=true&theme=transparent&title_color=3FA796&icon_color=3FA796" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranesh123&layout=compact&hide_border=true&theme=transparent&title_color=3FA796" height="165" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent&ring=3FA796&fire=3FA796&currStreakLabel=3FA796" alt="GitHub contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saranesh123&hide_border=true&theme=transparent&ring=3FA796&fire=3FA796&currStreakLabel=3FA796" alt="GitHub contribution streak" />
 </p>
 
 ---
@@ -148,7 +148,7 @@ My professional work includes manufacturing, retail, and logistics use cases, wi
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Saranesh123">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="YOUR_LINKEDIN_URL">
